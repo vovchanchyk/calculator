@@ -1,6 +1,6 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
-const  StyledDisplay= styled.div`
+const StyledDisplay = styled.div`
   grid-column-start: 1;
   grid-column-end: 5;
   grid-row-start:1;

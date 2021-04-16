@@ -1,7 +1,6 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
-
-export const StyledSpan = styled.span<{mTop:string,fsz:string}>`
-margin-top: ${props=> props.mTop};
+const StyledSpan = styled.span<{mTop:string, fsz:string}>`
+margin-top: ${(props) => props.mTop};
 `;
-
+export default StyledSpan;

@@ -13,6 +13,6 @@ border: solid 1px;
 border-radius: 10px;
 color:white;
 box-sizing: border-box;
-`
+`;
 
 export default Wrapper;
